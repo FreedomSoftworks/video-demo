@@ -1,0 +1,13 @@
+{
+  "name": "video-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fd": "cmd/frontdev.sh",
+    "fi": "cmd/frontinit.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
