@@ -1,13 +1,12 @@
 {
   "name": "video-site",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "video demo",
   "scripts": {
     "fd": "cmd/frontdev.sh",
     "fi": "cmd/frontinit.sh"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "freedom softworks",
+  "license": "MIT"
 }
